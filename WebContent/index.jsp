@@ -11,5 +11,6 @@
 	¼öÁ¤ÇÔ
 	<h2>index page</h2>
 	<h2>my test^^</h2>
+	<h2>my test^^</h2>
 </body>
 </html>

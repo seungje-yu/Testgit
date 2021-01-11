@@ -9,7 +9,10 @@
 <body>
 	<h1>git hub 테스트용</h1>
 	수정함
-	
 	헬로우
+	<h2>index page</h2>
+	<h2>my test^^</h2>
+	<h2>my test^^</h2>
+
 </body>
 </html>
